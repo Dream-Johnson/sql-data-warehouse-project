@@ -6,6 +6,7 @@ Data Architecture: Designing a Modern Data Warehouse Using Medallion Architectur
 ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
 Data Modeling: Developing fact and dimension tables optimized for analytical queries.
 Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
+
 🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
 
 SQL Development
@@ -24,6 +25,7 @@ Git Repository: Set up a GitHub account and repository to manage, version, and c
 DrawIO: Design data architecture, models, flows, and diagrams.
 Notion: Get the Project Template from Notion
 Notion Project Steps: Access to All Project Phases and Tasks.
+
 🚀 Project Requirements
 Building the Data Warehouse (Data Engineering)
 Objective
